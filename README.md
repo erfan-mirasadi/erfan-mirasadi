@@ -35,10 +35,3 @@ Front-End Dev • 3D on the Web • Creative Coder
 🔹 LumiLux → Smooth showcase (React + GSAP)
 
 🔹 3D Portfolio → Interactive, optimized (Next.js + Three.js + Draco)
-
-⸻
-
-📫 Let’s Connect
-	•	✉️ erfan.mirasadi@gmail.com
-	•	💼 LinkedIn
-	•	💻 GitHub
