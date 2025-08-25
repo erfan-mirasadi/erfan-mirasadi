@@ -31,7 +31,9 @@ Front-End Dev • 3D on the Web • Creative Coder
 🚀 Projects
 
 🔹 Subly → Full e-commerce (Next.js + Supabase)
+
 🔹 LumiLux → Smooth showcase (React + GSAP)
+
 🔹 3D Portfolio → Interactive, optimized (Next.js + Three.js + Draco)
 
 ⸻
