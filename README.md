@@ -82,6 +82,6 @@ My personal interactive 3D portfolio with optimized performance
 
 [![Website](https://img.shields.io/badge/🌐_Website-iamerfan.me-4285F4?style=for-the-badge)](https://iamerfan.me)
 [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge)](mailto:erfan.mirasadi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](www.linkedin.com/in/erfan-mirasadi)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/erfan-mirasadi)
 
 </div>
