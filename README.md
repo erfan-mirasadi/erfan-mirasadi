@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Hey there! I'm Erfan
+##  Hey there! I'm Erfan
 
 I'm a passionate frontend developer who loves crafting **immersive web experiences** that push the boundaries of what's possible in the browser. My mission is simple: turn static designs into living, breathing digital art.
 
@@ -23,8 +23,8 @@ I'm a passionate frontend developer who loves crafting **immersive web experienc
 
 ---
 
-## 🛠️ Tech Stack
-
+## 🖥️  Tech Stack
+ 
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -42,41 +42,41 @@ I'm a passionate frontend developer who loves crafting **immersive web experienc
 
 ---
 
-## 🎯 What I Do Best
+##  What I Do Best
 
-**🎨 Interactive UI Design**  
+** ➕ Interactive UI Design**  
 Building responsive, modern interfaces that feel natural and engaging
 
-**🌟 Animation & Motion**  
+** ➕ Animation & Motion**  
 Bringing designs to life with smooth transitions and micro-interactions
 
-**🎮 3D Web Experiences**  
+** ➕ 3D Web Experiences**  
 Creating immersive WebGL scenes that run smoothly across devices
 
-**⚡ Performance Optimization**  
+** ➕ Performance Optimization**  
 Making sure every animation is buttery smooth and every load is lightning fast
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🛍️ **Subly** - E-commerce Platform
+### 🎮 **Subly** - E-commerce Platform
 Complete online store with modern design and seamless user experience  
 **Stack:** Next.js • Supabase • TailwindCSS • Stripe  
-[🌐 Live Demo](https://subly.com/) • [💻 Source](https://github.com/erfan-mirasadi/SUBLY)
+[🌐 site](https://subly.com/) • [💻 Source](https://github.com/erfan-mirasadi/SUBLY)
 ### ✨ **LumiLux** - Interactive Showcase  
 Premium product landing page with scroll-based animations  
 **Stack:** React • GSAP • Framer Motion • TailwindCSS  
 [🌐 site](https://lumiluxe.studio/) • [💻 Source](https://github.com/erfan-mirasadi/LumiLuxe)
 
-### 🎯 **3D Portfolio** - WebGL Experience
+### 🧊 **3D Portfolio** - WebGL Experience
 My personal interactive 3D portfolio with optimized performance  
 **Stack:** Next.js • Three.js • React Three Fiber • Theatre.js  
 [🌐 site](https://iamerfan.me) • [💻 Source](https://github.com/erfan-mirasadi/IamErfan)
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
