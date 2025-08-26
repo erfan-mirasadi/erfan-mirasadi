@@ -44,16 +44,16 @@ I'm a passionate frontend developer who loves crafting **immersive web experienc
 
 ##  What I Do Best
 
-** ➕ Interactive UI Design **  
+**➕ Interactive UI Design**  
 Building responsive, modern interfaces that feel natural and engaging
 
-** ➕ Animation & Motion **  
+**➕ Animation & Motion**  
 Bringing designs to life with smooth transitions and micro-interactions
 
-** ➕ 3D Web Experiences **  
+**➕ 3D Web Experiences**  
 Creating immersive WebGL scenes that run smoothly across devices
 
-** ➕ Performance Optimization **  
+**➕ Performance Optimization**  
 Making sure every animation is buttery smooth and every load is lightning fast
 
 ---
