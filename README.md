@@ -44,8 +44,8 @@ I'm a passionate frontend developer who loves crafting **immersive web experienc
 
 ##  What I Do Best
 
-**➕ Interactive UI Design**  
-Building responsive, modern interfaces that feel natural and engaging
+**➕ React and Next Js**  
+Developed and maintained responsive web applications using React.js and Next.js
 
 **➕ Animation & Motion**  
 Bringing designs to life with smooth transitions and micro-interactions
