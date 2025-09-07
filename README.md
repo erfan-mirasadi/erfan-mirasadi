@@ -60,10 +60,10 @@ Making sure every animation is buttery smooth and every load is lightning fast
 
 ##  Featured Projects
 
-### 🎮 **Subly** - E-commerce Platform
+### 🎮 **SABLY** - Subscription manager Platform
 Complete online store with modern design and seamless user experience  
 **Stack:** Next.js • Supabase • TailwindCSS • Stripe  
-[🌐 site](https://subly.com/) • [💻 Source](https://github.com/erfan-mirasadi/SUBLY)
+[🌐 site](https://sably.ir/) • [💻 Source](https://github.com/erfan-mirasadi/SUBLY)
 ### ✨ **LumiLux** - Interactive Showcase  
 Premium product landing page with scroll-based animations  
 **Stack:** React • GSAP • Framer Motion • TailwindCSS  
