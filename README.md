@@ -60,6 +60,10 @@ Making sure every animation is buttery smooth and every load is lightning fast
 
 ##  Featured Projects
 
+### 🍔 **MENU-3D** - SaaS Dining Platform
+Multi-tenant restaurant system with real-time(webSocket) POS & immersive 3D/AR menus  
+**Stack:** Next.js 14 • Supabase • Three.js • R3F • WebGL  
+[🌐 site](https://menu-3d.com) • [💻 Source](https://github.com/erfan-mirasadi/MENU-3D)
 ### 🎮 **SABLY** - Subscription manager Platform
 Complete online store with modern design and seamless user experience  
 **Stack:** Next.js • Supabase • TailwindCSS • Stripe  
